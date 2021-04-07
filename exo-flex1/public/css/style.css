@@ -1,0 +1,22 @@
+.flex-container{
+    width: 100%;
+    height: 800px;
+    margin: 0;
+    background-color: darksalmon;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+
+}
+.flex-item{
+    height: 100px;
+    background-color: tomato;
+    padding: 40px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+}
+div div:nth-child(1){
+    color: turquoise;
+}
